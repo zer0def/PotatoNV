@@ -1,0 +1,3 @@
+[submodule "usrlock/bootloaders"]
+	path = usrlock/bootloaders
+	url = https://github.com/mashed-potatoes/HiSiBootloaders
